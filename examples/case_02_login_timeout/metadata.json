@@ -1,0 +1,8 @@
+{
+  "name": "登录 Loading 卡死",
+  "category": "timeout",
+  "module": "登录认证模块",
+  "screen_state": "登录按钮点击后持续 loading",
+  "ui_hint": "页面未展示超时错误，也未释放 loading 状态",
+  "reproduce_steps": "打开登录页|输入账号密码|点击登录|页面一直显示登录中"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "订单金额显示错误",
+  "category": "data_mismatch",
+  "module": "订单结算模块",
+  "screen_state": "页面展示总额与接口返回金额不一致",
+  "ui_hint": "折扣没有被正确扣减"
+}

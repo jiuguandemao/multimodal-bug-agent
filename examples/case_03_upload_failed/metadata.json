@@ -1,0 +1,7 @@
+{
+  "name": "图片上传超过限制",
+  "category": "upload_limit",
+  "module": "文件上传模块",
+  "screen_state": "上传进度条变红并提示失败",
+  "ui_hint": "错误提示没有说明最大文件大小"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "用户管理权限不足",
+  "category": "permission",
+  "module": "权限管理模块",
+  "screen_state": "页面局部显示访问受限",
+  "ui_hint": "接口返回 403 Forbidden"
+}

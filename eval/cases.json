@@ -1,0 +1,32 @@
+[
+  {
+    "case": "case_01_register_500",
+    "expected_bug_type": "接口异常 / 服务端 500",
+    "expected_file": "code/backend/register_service.py"
+  },
+  {
+    "case": "case_02_login_timeout",
+    "expected_bug_type": "接口超时 / Loading 卡死",
+    "expected_file": "code/frontend/Login.jsx"
+  },
+  {
+    "case": "case_03_upload_failed",
+    "expected_bug_type": "上传限制异常",
+    "expected_file": "code/backend/upload_controller.py"
+  },
+  {
+    "case": "case_04_blank_page_typeerror",
+    "expected_bug_type": "前端空值异常 / 页面白屏",
+    "expected_file": "code/frontend/Profile.jsx"
+  },
+  {
+    "case": "case_05_order_amount_error",
+    "expected_bug_type": "金额计算不一致",
+    "expected_file": "code/frontend/OrderDetail.tsx"
+  },
+  {
+    "case": "case_06_permission_403",
+    "expected_bug_type": "权限校验异常",
+    "expected_file": "code/backend/permission.py"
+  }
+]

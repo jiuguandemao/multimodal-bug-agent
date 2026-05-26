@@ -1,0 +1,2 @@
+[ERROR] Register.jsx:48 POST /api/register 500 (Internal Server Error)
+[ERROR] TypeError: Cannot read properties of undefined (reading 'user') at handleSubmit Register.jsx:48

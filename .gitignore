@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.streamlit/
+outputs/
+data/private/
+*.zip
+*.mp4
+!examples/**/*.mp4
+*.mov
+!.gitkeep

@@ -1,0 +1,8 @@
+{
+  "name": "注册提交返回 500",
+  "category": "server_error",
+  "module": "用户注册模块",
+  "screen_state": "注册表单提交后出现服务端 500 错误提示",
+  "ui_hint": "页面右上角出现红色错误 Toast",
+  "reproduce_steps": "打开注册页面|输入用户名和密码|点击提交注册|页面提示服务器异常 500"
+}

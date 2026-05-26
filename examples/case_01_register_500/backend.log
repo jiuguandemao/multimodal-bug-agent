@@ -1,0 +1,2 @@
+ERROR register_service.py:37 Traceback (most recent call last)
+ERROR /api/register 500 ValueError: birthday must not be empty

@@ -1,0 +1,2 @@
+WARN /api/login slow query cost=12842ms user=demo
+WARN auth_service.py:62 retry password provider timeout

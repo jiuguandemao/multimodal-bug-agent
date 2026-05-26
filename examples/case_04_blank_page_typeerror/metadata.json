@@ -1,0 +1,7 @@
+{
+  "name": "个人中心页面白屏",
+  "category": "frontend_type_error",
+  "module": "个人中心模块",
+  "screen_state": "页面主体几乎空白",
+  "ui_hint": "控制台显示读取 null.avatar 失败"
+}
