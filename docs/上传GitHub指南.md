@@ -56,3 +56,7 @@ vlm
 ```text
 v0.1.0 Initial Demo Release
 ```
+
+## 5. Git 练习记录
+
+本节用于练习 `git status`、`git add`、`git commit` 和 `git push` 的基本流程。
